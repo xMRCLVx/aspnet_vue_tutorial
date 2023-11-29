@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSystem.Web", "POSystem.Web\POSystem.Web.csproj", "{3D57795E-E978-42D8-84E8-FA6B9FE39F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSystem.Entity", "POSystem.Entity\POSystem.Entity.csproj", "{AF86BF35-ED95-452F-8FEF-EDD6D12D2014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D57795E-E978-42D8-84E8-FA6B9FE39F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D57795E-E978-42D8-84E8-FA6B9FE39F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D57795E-E978-42D8-84E8-FA6B9FE39F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D57795E-E978-42D8-84E8-FA6B9FE39F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF86BF35-ED95-452F-8FEF-EDD6D12D2014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF86BF35-ED95-452F-8FEF-EDD6D12D2014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF86BF35-ED95-452F-8FEF-EDD6D12D2014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF86BF35-ED95-452F-8FEF-EDD6D12D2014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002AFF2C-2EE7-40A2-9FD0-AB13C52E62E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002AFF2C-2EE7-40A2-9FD0-AB13C52E62E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002AFF2C-2EE7-40A2-9FD0-AB13C52E62E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002AFF2C-2EE7-40A2-9FD0-AB13C52E62E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
